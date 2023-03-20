@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "治愈星球APP",
+      url: "https://user-images.githubusercontent.com/86664951/226228461-6256bc3e-5e98-45e5-84e8-1e938e1df5c4.png",
+      framework: "react",
+      taroVersion: "3.5.12",
+      screenshot: []
+    },
+    {
       name: "简小记",
       url: "https://img.briefnote.cn/8.31171a22610d8-4b5.a3c05caac4d4",
       framework: "react",
